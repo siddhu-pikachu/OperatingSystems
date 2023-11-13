@@ -1,4 +1,4 @@
-myshell: TRASH - Designed by Siddhu and Surya  
+myshell: TRASH - Designed by Siddhu  
 Designed in C++
 
 1. cd,pwd and exit work in background mode too with an addition of "&" at the end of the command.
