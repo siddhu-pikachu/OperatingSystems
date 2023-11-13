@@ -1,0 +1,9 @@
+# scalar is 0
+# ./(executable_name) -d test3.in
+# can also check for other options (-a, -s, -m)
+
+0
+
+2 1
+1,
+2,

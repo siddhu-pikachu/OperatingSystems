@@ -1,0 +1,10 @@
+# This is a comment!
+# Two matrices M1 of 1x2 and M2 of 2x1
+# ./(executable_name) -A test1.in 
+
+1 2
+1,2,
+
+2 1
+2,
+1,
